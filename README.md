@@ -60,6 +60,8 @@ Um salt deve ser grande, pois senão o atacante poderá montar Lookup tables ou 
 
 Uma regra comumente utilizada é usar um salt com o mesmo tamanho da saída da função hash. Por exemplo, se utilizar o algoritimo SHA256, de 256 bits o salt deve ter 256bits aleatórios.
 
+<!-- https://www.brunobrito.net.br/seguranca-salt-hash-senha/#:~:text=O%20salt%20%C3%A9%20utilizado%20no,de%20ataques%20como%20Rainbow%20tables. -->
+
 ---
 
 <img src="image-1.png" alt="" />
